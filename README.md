@@ -5,7 +5,7 @@ Domain:Artificial Intelligence
 Duration:July o August 2024
 Mentor:MUZAMMIL AHMED
 
-                Overview of Computer Vision Project
+Overview of Computer Vision Project
 
 Computer Vision is a subfield of Artificial Intelligence (AI) that focuses on enabling machines to interpret and understand visual information from the real world. This project involves working on a computer vision problem, such as image classification or object detection. Here's a breakdown of the key components and steps involved:
 

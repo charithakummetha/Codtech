@@ -9,6 +9,28 @@ Overview of Computer Vision Project
 
 Computer Vision is a subfield of Artificial Intelligence (AI) that focuses on enabling machines to interpret and understand visual information from the real world. This project involves working on a computer vision problem, such as image classification or object detection. Here's a breakdown of the key components and steps involved:
 
+Project Steps
+
+Data Preprocessing:
+Load the CIFAR-10 dataset.
+Normalize the image pixel values.
+
+Model Definition:
+Define a CNN model with convolutional, max-pooling, flatten, and dense layers.
+
+Model Compilation:
+Compile the model with appropriate optimizer, loss function, and metrics.
+
+Model Training:
+Train the model on the training data with validation on the test data.
+
+Model Evaluation:
+Evaluate the model on the test data and print the accuracy.
+
+Results Visualization:
+Plot the accuracy over epochs to visualize the training process.
+This project demonstrates a complete workflow of a computer vision task, from data preprocessing to model training, evaluation, and result visualization.
+
 Problem Definition:
 
 Identify the Task: Determine whether the task is image classification, object detection, image segmentation, or another computer vision problem.
